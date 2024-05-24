@@ -1,4 +1,4 @@
-### Olá, meu nome é *Ryan-Gouveia*, seja bem vindo ao meu perfil
+### Olá, meu nome é *Ryan Gouveia*, seja bem vindo ao meu perfil
 
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
